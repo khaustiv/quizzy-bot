@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Python-3.11.4-orange) ![Static Badge](https://img.shields.io/badge/Aiogram-3.2.0-blue) ![Static Badge](https://img.shields.io/badge/Django-5.0-blue) ![Static Badge](https://img.shields.io/badge/Django_CKEditor-6.7.0-blue)  ![Static Badge](https://img.shields.io/badge/PostgreSQL-14.15-purple) ![Static Badge](https://img.shields.io/badge/Redis-6.0.16-purple)
+
 [Василий Питонов](https://t.me/vaspytbot) – Telegram-бот для подготовки к ЕГЭ по информатике. Он позволяет решать задания из [Открытого банка тестовых заданий](https://ege.fipi.ru/bank) как с выбором ответа, так и с кратким ответом. 
 
 ## Основные возможности
